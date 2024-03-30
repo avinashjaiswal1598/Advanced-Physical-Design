@@ -1,9 +1,15 @@
-# Advanced Physical Design
+## Advanced Physical Design using OpenLane/sky130
+
 ![Screenshot from 2024-03-30 16-38-11](https://github.com/avinashjaiswal1598/Advanced-Physical-Design/assets/160040323/df19a038-657d-432c-857c-ff30be102c70)
 
-## About 
+
+## Introduction
+
+### About OpenLane
 
 [OpenLane](https://github.com/efabless/openlane2.git), an open-source digital RTL-to-GDSII flow, is frequently utilized in conjunction with [skywater130nm](https://github.com/google/skywater-pdk.git) process technology for integrated circuit (IC) design and implementation. OpenLane provides automation and optimization tools across various stages of the IC design process, including synthesis, placement, and routing, with the goal of enhancing efficiency and streamlining development cycles. Skywater 130nm process technology, on the other hand, offers a robust platform for semiconductor manufacturing, enabling the fabrication of ICs with competitive performance and power characteristics. Together, these technologies facilitate the creation of advanced ICs with improved performance, power efficiency, and manufacturability
+
+
 
 ## Design Flow
 
